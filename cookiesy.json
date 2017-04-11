@@ -51,7 +51,8 @@
 			"name" : "Taboulé",
 			"thumbnail" : "http://demandware.edgesuite.net/aahv_prd/on/demandware.static/-/Sites-catalog-picard/default/dw21a178d4/produits/entrees-tartes-salades/edition/000000000000011370_E3.jpg",
 			"ingredients" : ["5 tomates moyennes", "1 concombre", "1 oignon blanc épluché", "6 branches de menthe", "200 ml de jus de citron", "1 cuillerées à café de sel", "1 pincée de poivre", "400 gr de semoule moyenne"],
-			"etapes" : ["1 : Laver, ôtez le pédoncule des tomates et coupez-les en 4. Mixez-les dans un robot. Disposez-les dans un saladier.", "2 : Épluchez le concombre, coupez-le en gros cubes et mixez-le dans le robot. Disposez-les avec les tomates.", "3 : Épluchez l'oignon blanc, coupez-le en 4 et disposez-le dans le robot, ajoutez les feuilles de menthe et le jus de citron. Mixez et versez le mélange avec les tomates et le concombre.", "4 : Ajoutez le persil, le sel, le poivre et la semoule, Remuez bien, poser un couvercle dessus et laissez reposer 35 minutes au frigo pour permettre à la semoule de gonfler."]
+			"etapes" : ["1 : Laver, ôtez le pédoncule des tomates et coupez-les en 4. Mixez-les dans un robot. Disposez-les dans un saladier.", "2 : Épluchez le concombre, coupez-le en gros cubes et mixez-le dans le robot. Disposez-les avec les tomates.", "3 : Épluchez l'oignon blanc, coupez-le en 4 et disposez-le dans le robot, ajoutez les feuilles de menthe et le jus de citron. Mixez et versez le mélange avec les tomates et le concombre.", "4 : Ajoutez le persil, le sel, le poivre et la semoule, Remuez bien, poser un couvercle dessus et laissez reposer 35 minutes au frigo pour permettre à la semoule de gonfler."],
+			"timer" : 0	
 		},
 		
 		
