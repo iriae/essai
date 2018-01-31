@@ -72,6 +72,13 @@
 			"ingredients" : ["600 à 800 g de pièce à fondue pour bourguignon", "4 ou 5 oignons", "4 ou 5 carottes", "1 bouquet garni", "1 bouteille de vin rouge", "100 g de beurre", "sel", "poivre"],
 			"etapes" : ["1 : Détailler la viande en cubes de 3 cm de côté, enlever les gros morceaux de gras.", "2 : Couper l'oignon en morceaux. Le faire revenir dans une poêle au beurre. Une fois transparent, le verser dans une cocotte en fonte de préférence.", "3 : Procéder de même avec la viande mais en plusieurs fois, jusqu'à ce que tous les morceaux soient cuits. Les ajouter au fur et à mesure dans la cocotte. Ne pas avoir peur d'ajouter du beurre entre chaque fournée.", "4 : Quand toute la viande est dans la cocotte, déglacer la poêle avec de l'eau ou du vin et faire bouillir en raclant pour récupérer le suc. Saler, poivrer, ajouter au reste.", "5 : Recouvrir le tout avec une partie du vin et faire mijoter quelques heures avec le bouquet garni et les carottes en rondelles.", "6 : Le lendemain, faire mijoter au moins 2 heures en plusieurs fois, ajouter du vin ou de l'eau si nécessaire"],
 			"Timer" : 120
+		},{
+			"id": 8,
+			"name" : "Poulet Basquaise (pour 2P)",
+			"thumbnail" : "http://img-3.journaldesfemmes.com/4A2Wd5SLT2uRjTMNYoGoeBIcnu4=/750x/smart/image-icu/10002051_1603680841.jpg",
+			"ingredients" : ["300g: Blanc de poulet", "1,5 Poivrons", "1,5 gousses d'ail", "huile d'olive","sel"],
+			"etapes" : ["1 : Coupez les blancs de poulet en morceaux. Salez et saupoudrez-les de piment", "2 : Rincez les poivrons, épépinez-les et coupez-les en lanières.", "3 : Faites chauffer l’huile dans une sauteuse avec les gousses d’ail entières. Faites revenir le poulet 5 min. Remplacez-les par les poivrons et faites-les cuire 5 min en mélangeant souvent.", "4 : Remettez le poulet dans la sauteuse et versez 1 cuil. à soupe d’eau. Couvrez à moitié et poursuivez la cuisson 10 min sur feu doux", "5 : Servez bien chaud accompagné d’un riz blanc."],
+			"Timer" : 120
 		}
 
 ]}	
