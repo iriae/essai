@@ -31,7 +31,7 @@
 		{
 			"id": 3,
 			"name" : "Muffins",
-			"thumbnail" : "http://kingofwallpapers.com/muffin/muffin-002.jpg",
+			"thumbnail" : "https://club.guydemarle.com/sites/default/files/styles/photo_recette/public/recette_images/crop_crop_crop_p1020593.jpg",
 			"ingredients" : [" 280 g de farine", "2 oeufs", "100 g de sucre", "150 ml de lait", "80 g de beurre", "1 sachet de levure chimique", "1 sachet de sucre vanillé"],
 			"etapes" : ["1 : Dans un premier saladier : mélanger la farine, le sucre, le sel, le sucre vanillé et la levure.", "2 : Dans un deuxième saladier : mélanger le lait, l'huile(ou beurre fondu) et les oeufs.", "3 : Verser le contenu du second saladier dans le premier et remuer jusqu'à obtenir une pâte plutôt lisse.", "4 : Mettre au four 15 min à 180°C (thermostat 6)."],
 			"Timer" : 15
